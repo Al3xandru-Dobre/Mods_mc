@@ -17,6 +17,9 @@ Le instalati direct cu CurseForge. Prima data instalati BMC5 (Better Minecraft 5
 
 ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
 
+*Uite aici daca vrei o arhiva cu moduri direct daca preferi sa instalezi manual: https://drive.proton.me/urls/NP787X2FAM#xApYpzDVMxFP *
+
+
 ## 3. Lista Moduri Suplimentare peste BMC5 (NeoForge 1.21.1)
 
 *(Au fost eliminate toate modurile care exista deja in **Better MC [BMC5] v53** — precum Biomes O' Plenty, GlitchCore, TerraBlender, FerriteCore, Framework, Sodium, Iris Shaders, Kotlin for Forge, Open Parties and Claims, Xaero's Minimap/World Map, Balm, Client Sort, Cloth Config — precum si cele care intra in conflict cu modurile din BMC6, cum ar fi JEI vs REI, Traveler's Backpack vs Sophisticated Backpacks, Immersive Optimization/VMP vs ServerCore+Lithium sau modurile ramase pe 1.21.1).*
