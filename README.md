@@ -7,12 +7,14 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 
 ## 2. Requirements
 - Java 21 / Java 25 (il gasesti pe link-ul asta sa-l instalezi) : https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html  ![alt text](image.png) 
-- Minecraft 26.1.2 (NeoForge)
-- Better Minecraft 6 (v7): https://www.curseforge.com/minecraft/modpacks/better-mc-bmc6/files/9167833
-- Modpack-ul lui Alexis + alea noi (sunt si mai jos pentru usurinta): https://drive.proton.me/urls/QHVNF3SBTR#EAMSsD48zFP8
+- Minecraft 1.21.1 (NeoForge)
+- Better Minecraft 5 (v53): https://www.curseforge.com/minecraft/modpacks/better-mc-neoforge-bmc5/files/8835241
+- Modpack-ul lui Alexis + alea noi (sunt si mai jos pentru usurinta): https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid/files/8061852
+- Pokemoni: https://www.curseforge.com/minecraft/mc-mods/cobblemon/files/9124643
 - Unul din serverele noastre de discord: Vladivostok: https://discord.gg/FfAK4hdbKg 
 
-### ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
+Le instalati direct cu CurseForge. Prima data instalati BMC5 (Better Minecraft 5), apoi va trebui sa instalti pokemoni si maids.
+### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
 
 ## 3. Lista Moduri Suplimentare peste BMC6 (NeoForge 26.1.2)
 
