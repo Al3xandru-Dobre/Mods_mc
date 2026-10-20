@@ -40,7 +40,38 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 | **EasyWhitelist** *(Fabric via Connector)* | `1.1.4` | `easywhitelist-1.1.4.jar` | [Modrinth](https://modrinth.com/mod/easywhitelist/version/FgKT4QZA) | Server only |
 | **Vanilla Permissions** *(Fabric via Connector)* | `0.3.6+26.1.2` | `vanilla-permissions-0.3.6+26.1.2.jar` | [Modrinth](https://modrinth.com/mod/vanilla-permissions/version/bpq3ZDRl) | Server only |
 
-## 4. Mini tutorial pentru instalare.
+## 4. Moduri Anime / Maids — status pe NeoForge 26.1.2
+
+### A. Ce functioneaza
+
+| Mod | Versiune (26.1.2) | Loader | Sursa / Link | Observatii |
+| :--- | :--- | :--- | :--- | :--- |
+| **Yes Steve Model (YSM)** | `2.6.5-neoforge+mc26.1-hotfix` | NeoForge nativ | [Modrinth](https://modrinth.com/mod/yes-steve-model/version/1rPJlKDJ) | Deja in lista 3.A — modele anime pentru jucatori |
+| **Touhou Little Maid: Tsumugi** | `1.0.23-beta.1+mc26.1.2` | Fabric (prin Connector) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid-tsumugi/files/8859482) | Port Fabric **neoficial** al TLM — singurul build existent pe 26.1.2. Maids cu sarcini (farm, pescuit, gatit, lupta, sortare storage), modele custom + suport YSM, chat LLM/TTS. **Beta — testati pe un server de test intai.** |
+
+### B. Dependente obligatorii pentru TLM Tsumugi (server + TOTI clientii)
+
+| Mod | Versiune | Observatii |
+| :--- | :--- | :--- |
+| Sinytra Connector | `3.0.0-beta.6+26.1.2` | Deja in lista 3.B |
+| Forgified Fabric API | `0.155.3+26.1.2+3.5.9` | Deja in lista 3.B |
+| Forge Config API Port | `26.1.5+` | Varianta pentru **26.1**, nu cea de 26.2 |
+| Java | 25 | Cerut de ramura 26.1 a modului |
+
+> TLM e mod Client & Server — fiecare jucator trebuie sa aiba in client Connector + FFAPI + Forge Config API Port + jar-ul TLM Tsumugi. Nu e in lista de compatibilitate testata a Connector-ului, deci necesita testare manuala.
+
+### C. Ce NU exista pe 26.1 (ramase pe 1.21.1)
+
+| Mod | Ultima versiune | Observatii |
+| :--- | :--- | :--- |
+| **Touhou Little Maid** oficial | `1.5.3` (1.21.1) | Fara port oficial pe 26.1; jar-ul de 1.21.1 nu porneste |
+| **TLM Maid Manager** | 1.21.1 | Addon TLM |
+| **TLM Self-Talk** | 1.21.1 | Addon TLM |
+| **Touhou Maid: Affection** | 1.21.11 | Addon TLM — autorul e activ, posibil port ulterior |
+| **Cobblemon** | `1.8.2` (1.21.1) | Blocant: nu exista deloc pe 26.x — daca Cobblemon e esential, ramai pe 1.21.1 |
+| **Spawn Notification / Tim Core** | 1.21.1 | Addon-uri Cobblemon |
+
+## 5. Mini tutorial pentru instalare.
 
 Prima data, este recomandat pentru convenienta, sa instalezi Better Minecraft 6 (BMC6).
 
@@ -60,7 +91,7 @@ Acolo doar vei copia, din arhiva modpack-ului lui Alexis, toate fisierele jar. (
 
 Enjoy.
 
-## 5. Date de conectare
+## 6. Date de conectare
 
 IP:
 NON-premium, pentru toata lumea.
