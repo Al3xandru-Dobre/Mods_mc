@@ -17,12 +17,25 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 
 ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
 
+### Viziteaza dupa ce ai termian de intalat, problemele frecvente : [Click pentru probleme frecvente stiute].(### Probleme frecvente)
+
+
 *Uite aici daca vrei o arhiva cu moduri direct daca preferi sa instalezi manual: https://drive.proton.me/urls/NP787X2FAM#xApYpzDVMxFP*
 
 
 ## 3. Lista Moduri Suplimentare peste BMC5 (NeoForge 1.21.1)
 
 *(Au fost eliminate toate modurile care exista deja in **Better MC [BMC5] v53** — precum Biomes O' Plenty, GlitchCore, TerraBlender, FerriteCore, Framework, Sodium, Iris Shaders, Kotlin for Forge, Open Parties and Claims, Xaero's Minimap/World Map, Balm, Client Sort, Cloth Config — precum si cele care intra in conflict cu modurile din BMC6, cum ar fi JEI vs REI, Traveler's Backpack vs Sophisticated Backpacks, Immersive Optimization/VMP vs ServerCore+Lithium sau modurile ramase pe 1.21.1).*
+
+### Probleme frecvente
+
+Cand vei incerca sa intri in meniul de video settings, in mod normal va crash ui deoarece sunt 2 moduri care modifica meniul.
+
+Las aici cele fixurile posibile:
+
+Fix option
+- Delete sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar from Instances\Better MC [NEOFORGE] BMC5\mods (il gasesti in C:\Users\<Numele PC-ului>\curseforge\minecraft\Instances\Better MC [NEOFORGE] BMC5\mods). It only adds EMF/ETF config pages inside Sodium's video settings — removing it loses nothing else, and video settings will work again. (Keep sodiumoptionsapi — other mods depend on it.)
+
 
 ### A. Moduri Suplimentare pentru Jucatori + Server (Client & Server)
 
