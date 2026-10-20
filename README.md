@@ -12,6 +12,8 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 - Modpack-ul lui Alexis + alea noi (sunt si mai jos pentru usurinta): [ https://drive.sopy.one/s/ELmyKK5JW5bfSk8](https://drive.google.com/drive/folders/1fLntHIkuKrlNmbIjTEJ0iAOlvjifnYRS?usp=drive_link)
 - Unul din serverele noastre de discord: Vladivostok: https://discord.gg/FfAK4hdbKg 
 
+### ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
+
 ## 3. Lista Moduri Suplimentare peste BMC6 (NeoForge 26.1.2)
 
 *(Au fost eliminate toate modurile care exista deja in **Better MC [BMC6] v7** — precum Biomes O' Plenty, GlitchCore, TerraBlender, FerriteCore, Framework, Sodium, Iris Shaders, Kotlin for Forge, Open Parties and Claims, Xaero's Minimap/World Map, Balm, Client Sort, Cloth Config — precum si cele care intra in conflict cu modurile din BMC6, cum ar fi JEI vs REI, Traveler's Backpack vs Sophisticated Backpacks, Immersive Optimization/VMP vs ServerCore+Lithium sau modurile ramase pe 1.21.1).*
