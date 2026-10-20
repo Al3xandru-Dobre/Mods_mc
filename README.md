@@ -17,7 +17,7 @@ Le instalati direct cu CurseForge. Prima data instalati BMC5 (Better Minecraft 5
 
 ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
 
-*Uite aici daca vrei o arhiva cu moduri direct daca preferi sa instalezi manual: https://drive.proton.me/urls/NP787X2FAM#xApYpzDVMxFP *
+*Uite aici daca vrei o arhiva cu moduri direct daca preferi sa instalezi manual: https://drive.proton.me/urls/NP787X2FAM#xApYpzDVMxFP*
 
 
 ## 3. Lista Moduri Suplimentare peste BMC5 (NeoForge 1.21.1)
