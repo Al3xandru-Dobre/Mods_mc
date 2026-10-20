@@ -52,7 +52,36 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 
 > **Nota:** **Better Villages** (`4.0.1`), **Library Ferret** (`5.0.1`) si **Santa's Sleigh & Reindeer** (`1.0.1+26.2`) au fost lansate direct pe `26.2` (fara versiune pentru `26.1.2`). Pentru sate pe NeoForge 26.1.2 se poate folosi [ChoiceTheorem's Overhauled Village (CTOV)](https://modrinth.com/mod/ct-overhaul-village).
 
-## 4. Mini tutorial pentru instalare.
+## 4. Modpack-ul lui Alexis (`/Downloads/mods` – situatie pentru NeoForge 26.1.2)
+
+### A. Moduri din pachetul lui Alexis care AU versiune nativa de NeoForge 26.1.2 (10 moduri)
+
+| Mod | Versiune veche (1.21.1) | Versiune **NeoForge 26.1.2** | Fisier `.jar` (26.1.2) | Sursa / Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Yes Steve Model (YSM)** | `2.6.5-neoforge+mc1.21.1` | **`2.6.5-neoforge+mc26.1-hotfix`** | `ysm-2.6.5-neoforge+mc26.1-hotfix.jar` | [Modrinth](https://modrinth.com/mod/yes-steve-model/version/1rPJlKDJ) |
+| **Patchouli** | `1.21.1-93-NEOFORGE` | **`26.1-94-beta`** | `patchouli-neoforge-26.1-94.jar` | [Modrinth](https://modrinth.com/mod/patchouli/version/2CsnFLom) |
+| **Balm** | `21.0.65` (1.21.1) | **`26.1.2.15+neoforge-26.1.2`** | `balm-neoforge-26.1.2-26.1.2.15.jar` | [Modrinth](https://modrinth.com/mod/balm/version/FgDdQRa6) |
+| **Compass to Map: Xaero's Minimap (c2mx)** | `0.1.1` (1.21.1) | **`0.1.2+neoforge-26.1.2`** | `compasstomapxaeros-0.1.2-neoforge-26.1.2.jar` | [Modrinth](https://modrinth.com/mod/compass-to-map-xaeros/version/l3KZbmpp) |
+| **Client Sort** | `2.2.2+1.21.1` | **`3.102.8+26.1.2`** | `clientsort-neoforge-3.102.8+26.1.2.jar` | [Modrinth](https://modrinth.com/mod/clientsort/version/b9MDdbZk) |
+| **Cloth Config API** | `15.0.140-neoforge` | **`26.1.154+neoforge`** | `cloth-config-26.1.154.jar` | [Modrinth](https://modrinth.com/mod/cloth-config/version/TimoYzse) |
+| **Kotlin for Forge** | `5.12.0` | **`6.4.0`** | `kotlinforforge-6.4.0-all.jar` | [Modrinth](https://modrinth.com/mod/kotlin-for-forge/version/9fo5CJQk) |
+| **QuickStack (Quickstack Reborn)** | `1.21.1-1` | **`1.0.0` (26.1.2 NeoForge)** | `Quickstack Reborn 26.1.2 Neoforge 1.0.0` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quickstack-reborn) |
+| **Xaero's Minimap** | `26.4.2` (1.21.1) | **`neoforge-26.1.2-26.6.1`** | `xaerominimap-neoforge-26.1.2-26.6.1.jar` | [Modrinth](https://modrinth.com/mod/xaeros-minimap/version/A3XNwEV0) |
+| **Xaero's World Map** | `1.45.0` (1.21.1) | **`neoforge-26.1.2-1.47.1`** | `xaeroworldmap-neoforge-26.1.2-1.47.1.jar` | [Modrinth](https://modrinth.com/mod/xaeros-world-map/version/rLnqjWTq) |
+
+### B. Moduri din pachetul lui Alexis care au ramas pe 1.21.1 (sau au doar port neoficial pe 26.1.2) (7 moduri)
+
+| Mod | Versiune in `/Downloads/mods` | Ultima versiune oficiala (1.21.1) | Situatie pe **26.1.2** | Sursa / Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Touhou Little Maid** | `1.5.3-neoforge+mc1.21.1` | `1.5.3-neoforge+mc1.21.1` | Oficial doar pana la 1.21.1. Pe **26.1.2** exista fork-ul Fabric **Touhou Little Maid: Tsumugi** (`1.0.23-beta.1+mc26.1.2` – necesita Sinytra Connector + Forge Config API Port) | [Modrinth (Oficial)](https://modrinth.com/mod/touhou-little-maid) / [CurseForge (Tsumugi 26.1.2)](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid-tsumugi/files/8859482) |
+| **TouhouLittleMaid-Self-Talk** | `1.1.0-neoforge-1.21.1` | `1.4.0-neoforge-1.21.1` | Doar pentru NeoForge `1.21.1` (fara build de `26.1.2`) | [Modrinth](https://modrinth.com/mod/touhoulittlemaid-self-talk) |
+| **Touhou Little Maid: Maid Manager** | `1.0.3-beta2-neoforge1.21.1` | `1.0.3-beta2-neoforge1.21.1` | Doar pentru NeoForge `1.21.1` / Forge `1.20.1` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid-maid-manager) |
+| **Touhou Maid: Affection** | `1.7.2.2` (1.21.1) | `1.7.5.2` (1.21.1) | Doar pentru NeoForge `1.21.1` | [Modrinth](https://modrinth.com/mod/touhou-maid-affection) |
+| **Cobblemon** | `1.7.3+1.21.1` | `1.8.2+1.21.1` | Oficial disponibil doar pana la `1.21.1` (nu are inca port pe `26.1.2`) | [Modrinth](https://modrinth.com/mod/cobblemon) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cobblemon) |
+| **Cobblemon Tim Core** | `1.7.3-1.32.0` | `1.8.2-neoforge-1.34.0` | Doar pentru NeoForge `1.21.1` (depinde de Cobblemon) | [Modrinth](https://modrinth.com/mod/cobblemon-tim-core) |
+| **Cobblemon Spawn Notification** | `1.7.3-2.3.0` | `1.8.1-neoforge-2.3.0` | Doar pentru NeoForge `1.21.1` (depinde de Cobblemon) | [Modrinth](https://modrinth.com/mod/cobblemon-spawn-notification) |
+
+## 5. Mini tutorial pentru instalare.
 
 Prima data, este recomandat pentru convenienta, sa instalezi Better Minecraft 6 (BMC6).
 
@@ -72,7 +101,7 @@ Acolo doar vei copia, din arhiva modpack-ului lui Alexis, toate fisierele jar. (
 
 Enjoy.
 
-## 5. Date de conectare
+## 6. Date de conectare
 
 IP:
 NON-premium, pentru toata lumea.
