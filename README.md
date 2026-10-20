@@ -1,4 +1,4 @@
-# Minecraft cu fetite Anime + BMC(Better Minecraft 6)
+# Minecraft cu fetite Anime si Pokemoni + BMC(Better Minecraft 5)
 
 ## 1. Introducere
 
