@@ -17,7 +17,7 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 
 ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
 
-### Viziteaza dupa ce ai termian de intalat, problemele frecvente : [Click pentru probleme frecvente stiute].(### Probleme frecvente)
+### Viziteaza dupa ce ai termian de intalat, problemele frecvente : [Click pentru probleme frecvente stiute].(#3-### Probleme frecvente)
 
 
 *Uite aici daca vrei o arhiva cu moduri direct daca preferi sa instalezi manual: https://drive.proton.me/urls/NP787X2FAM#xApYpzDVMxFP*
