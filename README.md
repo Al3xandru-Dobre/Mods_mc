@@ -13,36 +13,17 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 - Pokemoni: https://www.curseforge.com/minecraft/mc-mods/cobblemon/files/9124643
 - Unul din serverele noastre de discord: Vladivostok: https://discord.gg/FfAK4hdbKg 
 
-Le instalati direct cu CurseForge. Prima data instalati BMC5 (Better Minecraft 5), apoi va trebui sa instalti pokemoni si maids.
+Le instalati direct cu CurseForge. Prima data instalati BMC5 (Better Minecraft 5), apoi va trebui sa instalti pokemoni si maids. Instaleaza doar BMC5 cu Curseforge si sari la tutorial direct, dupa descarca celelalte.
+
 ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
 
-## 3. Lista Moduri Suplimentare peste BMC6 (NeoForge 26.1.2)
+## 3. Lista Moduri Suplimentare peste BMC5 (NeoForge 1.21.1)
 
-*(Au fost eliminate toate modurile care exista deja in **Better MC [BMC6] v7** — precum Biomes O' Plenty, GlitchCore, TerraBlender, FerriteCore, Framework, Sodium, Iris Shaders, Kotlin for Forge, Open Parties and Claims, Xaero's Minimap/World Map, Balm, Client Sort, Cloth Config — precum si cele care intra in conflict cu modurile din BMC6, cum ar fi JEI vs REI, Traveler's Backpack vs Sophisticated Backpacks, Immersive Optimization/VMP vs ServerCore+Lithium sau modurile ramase pe 1.21.1).*
+*(Au fost eliminate toate modurile care exista deja in **Better MC [BMC5] v53** — precum Biomes O' Plenty, GlitchCore, TerraBlender, FerriteCore, Framework, Sodium, Iris Shaders, Kotlin for Forge, Open Parties and Claims, Xaero's Minimap/World Map, Balm, Client Sort, Cloth Config — precum si cele care intra in conflict cu modurile din BMC6, cum ar fi JEI vs REI, Traveler's Backpack vs Sophisticated Backpacks, Immersive Optimization/VMP vs ServerCore+Lithium sau modurile ramase pe 1.21.1).*
 
 ### A. Moduri Suplimentare pentru Jucatori + Server (Client & Server)
 
-| Mod | Versiune (NeoForge 26.1.2) | Fisier `.jar` | Sursa / Link | Observatii |
-| :--- | :--- | :--- | :--- | :--- |
-| **Yes Steve Model (YSM)** | `2.6.5-neoforge+mc26.1-hotfix` | `ysm-2.6.5-neoforge+mc26.1-hotfix.jar` | [Modrinth](https://modrinth.com/mod/yes-steve-model/version/1rPJlKDJ) | Obligatoriu Client & Server *(GeckoLib este deja in BMC6)* |
-| **MrCrayfish's Furniture Mod: Refurbished** | `1.0.23` | `refurbished_furniture-neoforge-26.1.2-1.0.23.jar` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture) / [MrCrayfish](https://dashboard.mrcrayfish.com/mods/refurbished_furniture/files) | Obligatoriu Client & Server *(Framework `0.13.23` este deja in BMC6)* |
-| **Macaw's Holidays** | `1.1.2` | `mcw-holidays-1.1.2-mc26.1neoforge.jar` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-holidays/files/7809943) | Obligatoriu Client & Server |
-| **Patchouli** | `26.1-94-beta` | `patchouli-neoforge-26.1-94.jar` | [Modrinth](https://modrinth.com/mod/patchouli/version/2CsnFLom) | Client & Server |
-| **Compass to Map: Xaero's Minimap (c2mx)** | `0.1.2+neoforge-26.1.2` | `compasstomapxaeros-0.1.2-neoforge-26.1.2.jar` | [Modrinth](https://modrinth.com/mod/compass-to-map-xaeros/version/l3KZbmpp) | Optional Client |
-
 ### B. Moduri Suplimentare doar pentru Server (Server only)
-
-| Mod | Versiune (NeoForge 26.1.2) | Fisier `.jar` | Sursa / Link | Observatii |
-| :--- | :--- | :--- | :--- | :--- |
-| **Chunky** | `1.5.4` | `Chunky-NeoForge-1.5.4.jar` | [Modrinth](https://modrinth.com/mod/chunky/version/EyCqftOK) | Server only (pre-generare chunk-uri) |
-| **LuckPerms** | `v5.5.85-neoforge` | `LuckPerms-NeoForge-5.5.85.jar` | [Modrinth](https://modrinth.com/mod/luckperms/version/cLEqLHhz) | Server only (permisiuni) |
-| **Skin Restorer** | `2.11.0+26.1-neoforge` | `skinrestorer-2.11.0+26.1-neoforge.jar` | [Modrinth](https://modrinth.com/mod/skinrestorer/version/SIPoN63Q) | Server only (skin-uri non-premium) |
-| **FTB Essentials** *(inlocuitor Solstice Essentials)* | `26.1.2.5` | `ftb-essentials-neoforge-26.1.2.5.jar` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) | Server only *(FTB Library & FTB Teams sunt deja in BMC6)* |
-| **Sinytra Connector** *(doar daca folosesti EasyAuth/EasyWhitelist)* | `3.0.0-beta.6+26.1.2` | `connector-3.0.0-beta.6+26.1.2-full.jar` | [Modrinth](https://modrinth.com/mod/connector/version/oY5C4GFW) | Server only |
-| **Forgified Fabric API** *(dependenta Sinytra Connector)* | `0.155.3+26.1.2+3.5.9` | `forgified-fabric-api-0.155.3+26.1.2+3.5.9.jar` | [Modrinth](https://modrinth.com/mod/forgified-fabric-api/version/qg2tQe8K) | Server only |
-| **EasyAuth** *(Fabric via Connector)* | `3.4.3-SNAPSHOT.48` | `easyauth-mc26.1-3.4.3-SNAPSHOT.48.jar` | [Modrinth](https://modrinth.com/mod/easyauth/version/h9nSM2ZF) | Server only *(sau alternativa nativa NeoForge: [Auth](https://modrinth.com/mod/auth))* |
-| **EasyWhitelist** *(Fabric via Connector)* | `1.1.4` | `easywhitelist-1.1.4.jar` | [Modrinth](https://modrinth.com/mod/easywhitelist/version/FgKT4QZA) | Server only |
-| **Vanilla Permissions** *(Fabric via Connector)* | `0.3.6+26.1.2` | `vanilla-permissions-0.3.6+26.1.2.jar` | [Modrinth](https://modrinth.com/mod/vanilla-permissions/version/bpq3ZDRl) | Server only |
 
 ## 4. Moduri Anime / Maids — status pe NeoForge 26.1.2
 
@@ -66,12 +47,29 @@ Le instalati direct cu CurseForge. Prima data instalati BMC5 (Better Minecraft 5
 
 ## 5. Mini tutorial pentru instalare.
 
-Prima data, este recomandat pentru convenienta, sa instalezi Better Minecraft 6 (BMC6).
+Prima data, este recomandat pentru convenienta, sa instalezi Better Minecraft 5 (BMC5).
 
 Pentru comoditate, recomand sa apesi pe _Install via app_, iar o instanta de CurseForge va incepe.
 Nu instala Overwolf.
 
 ![alt text](image-1.png)
+
+Dupa ce il instalati un requirement important este sa mergeti pe mod.
+<img width="1302" height="952" alt="image" src="https://github.com/user-attachments/assets/ec221427-f687-4d78-9bf3-9a298cb99873" />
+
+Apesi pe Better Minecrft 5. Navigheaza la meniul din puncte verticale
+<img width="1250" height="920" alt="image" src="https://github.com/user-attachments/assets/392d902b-f0ef-4f5a-b2e5-1932301339e7" />
+
+Profile option
+<img width="1326" height="1000" alt="image" src="https://github.com/user-attachments/assets/4aebba33-dcb3-4fad-b7ad-85f46bd8d77f" />
+
+Bifeaza Allow content Management
+
+<img width="637" height="957" alt="image" src="https://github.com/user-attachments/assets/10c20f9f-c898-45a2-a8ac-3149ae8540af" />
+
+Abia apoi continua instalarea din linkurile de mai sus.
+- Modpack-ul lui Alexis + alea noi (sunt si mai jos pentru usurinta): https://www.curseforge.com/minecraft/mc-mods/touhou-little-maid/files/8061852
+- Pokemoni: https://www.curseforge.com/minecraft/mc-mods/cobblemon/files/9124643
 
 Dupa acest pas, ruleaza jocul o data. Apoi, din meniul principal al jocului apasa pe butonul de mods:
 ![alt text](image-2.png)
@@ -80,11 +78,12 @@ Apasa apoi pe open mods directory.
 
 ![alt text](image-3.png)
 
-Acolo doar vei copia, din arhiva modpack-ului lui Alexis, toate fisierele jar. (Pro tip: Inchide jocul in timp de copieze.)
+Acolo doar vei copia, din arhive cu modpack-uri suplimentare pe masura ce apar, toate fisierele jar. (Pro tip: Inchide jocul in timp de copieze.)
 
 Enjoy.
 
 ## 6. Date de conectare
 
 IP:
+
 NON-premium, pentru toata lumea.
