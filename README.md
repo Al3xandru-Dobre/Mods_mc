@@ -9,8 +9,8 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 - Java 21 / Java 25 (il gasesti pe link-ul asta sa-l instalezi) : https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html  ![alt text](image.png) 
 - Minecraft 26.1.2 (NeoForge)
 - Better Minecraft 6 (v7): https://www.curseforge.com/minecraft/modpacks/better-mc-bmc6/files/9167833
-- Modpack-ul lui Alexis:  https://drive.sopy.one/s/ELmyKK5JW5bfSk8
-- Unul din serverele noastre de discord: Vladivostok: https://discord.gg/FfAK4hdbKg ; Sanatate Mentala Romania: https://discord.gg/SgZkGyJJ8M
+- Modpack-ul lui Alexis + alea noi (sunt si mai jos pentru usurinta): [ https://drive.sopy.one/s/ELmyKK5JW5bfSk8](https://drive.google.com/drive/folders/1fLntHIkuKrlNmbIjTEJ0iAOlvjifnYRS?usp=drive_link)
+- Unul din serverele noastre de discord: Vladivostok: https://discord.gg/FfAK4hdbKg 
 
 ## 3. Lista Moduri Suplimentare peste BMC6 (NeoForge 26.1.2)
 
@@ -59,17 +59,6 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 | Java | 25 | Cerut de ramura 26.1 a modului |
 
 > TLM e mod Client & Server — fiecare jucator trebuie sa aiba in client Connector + FFAPI + Forge Config API Port + jar-ul TLM Tsumugi. Nu e in lista de compatibilitate testata a Connector-ului, deci necesita testare manuala.
-
-### C. Ce NU exista pe 26.1 (ramase pe 1.21.1)
-
-| Mod | Ultima versiune | Observatii |
-| :--- | :--- | :--- |
-| **Touhou Little Maid** oficial | `1.5.3` (1.21.1) | Fara port oficial pe 26.1; jar-ul de 1.21.1 nu porneste |
-| **TLM Maid Manager** | 1.21.1 | Addon TLM |
-| **TLM Self-Talk** | 1.21.1 | Addon TLM |
-| **Touhou Maid: Affection** | 1.21.11 | Addon TLM — autorul e activ, posibil port ulterior |
-| **Cobblemon** | `1.8.2` (1.21.1) | Blocant: nu exista deloc pe 26.x — daca Cobblemon e esential, ramai pe 1.21.1 |
-| **Spawn Notification / Tim Core** | 1.21.1 | Addon-uri Cobblemon |
 
 ## 5. Mini tutorial pentru instalare.
 
