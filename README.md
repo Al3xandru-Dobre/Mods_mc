@@ -13,7 +13,7 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 - Pokemoni: https://www.curseforge.com/minecraft/mc-mods/cobblemon/files/9124643
 - Unul din serverele noastre de discord: Vladivostok: https://discord.gg/FfAK4hdbKg 
 
-| Le instalati direct cu CurseForge. Prima data instalati BMC5 (Better Minecraft 5), apoi va trebui sa instalti pokemoni si maids. Instaleaza doar BMC5 cu Curseforge si sari la tutorial direct, dupa descarca celelalte. |
+> Le instalati direct cu CurseForge. Prima data instalati BMC5 (Better Minecraft 5), apoi va trebui sa instalti pokemoni si maids. Instaleaza doar BMC5 cu Curseforge si sari la tutorial direct, dupa descarca celelalte. 
 
 ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
 
