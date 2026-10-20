@@ -17,7 +17,7 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 
 ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
 
-### Viziteaza dupa ce ai termian de intalat, problemele frecvente : [Click pentru probleme frecvente stiute].(#3-Lista Moduri Suplimentare peste BMC5 (NeoForge 1.21.1)-Probleme frecvente)
+### Viziteaza dupa ce ai terminat de instalat, problemele frecvente : [Click pentru probleme frecvente stiute](#probleme-frecvente)
 
 
 *Uite aici daca vrei o arhiva cu moduri direct daca preferi sa instalezi manual: https://drive.proton.me/urls/NP787X2FAM#xApYpzDVMxFP*
@@ -34,7 +34,7 @@ Cand vei incerca sa intri in meniul de video settings, in mod normal va crash ui
 Las aici cele fixurile posibile:
 
 Fix option
-- Delete sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar from Instances\Better MC [NEOFORGE] BMC5\mods (il gasesti in C:\Users\<Numele PC-ului>\curseforge\minecraft\Instances\Better MC [NEOFORGE] BMC5\mods). It only adds EMF/ETF config pages inside Sodium's video settings — removing it loses nothing else, and video settings will work again. (Keep sodiumoptionsapi — other mods depend on it.)
+- Delete sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar from Instances\Better MC [NEOFORGE] BMC5\mods (il gasesti in  `C:\Users\<Numele PC-ului>\curseforge\minecraft\Instances\Better MC [NEOFORGE] BMC5\mods`). It only adds EMF/ETF config pages inside Sodium's video settings — removing it loses nothing else, and video settings will work again. (Keep sodiumoptionsapi — other mods depend on it.)
 
 
 ### A. Moduri Suplimentare pentru Jucatori + Server (Client & Server)
