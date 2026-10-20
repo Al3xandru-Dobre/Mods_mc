@@ -9,7 +9,7 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 - Java 21 / Java 25 (il gasesti pe link-ul asta sa-l instalezi) : https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html  ![alt text](image.png) 
 - Minecraft 26.1.2 (NeoForge)
 - Better Minecraft 6 (v7): https://www.curseforge.com/minecraft/modpacks/better-mc-bmc6/files/9167833
-- Modpack-ul lui Alexis + alea noi (sunt si mai jos pentru usurinta): https://drive.google.com/file/d/1P9dDYuVW_NZLzx4saGictRvwPMQFJv3K/view?usp=sharing
+- Modpack-ul lui Alexis + alea noi (sunt si mai jos pentru usurinta): https://drive.proton.me/urls/KCF4S2VG48#AQcPDxK5Jpi9
 - Unul din serverele noastre de discord: Vladivostok: https://discord.gg/FfAK4hdbKg 
 
 ### ### Poti sari direct la tutorial : [Click aici pentru Tutorial](#5-mini-tutorial-pentru-instalare)
