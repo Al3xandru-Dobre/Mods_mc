@@ -1,0 +1,215 @@
+Better Villages
+4.0.1
+This mod improves the vanilla minecraft villages !
+Modrinth
+Server only
+
+
+
+Biomes O' Plenty
+26.1.2.0.40
+Adds 50+ unique biomes to enhance your world, with new trees, flowers, and more!
+Modrinth
+Friends need it
+
+
+
+Chunky
+1.5.3
+Pre-generates chunks, quickly and efficiently
+Modrinth
+Optional for friends
+
+
+
+EasyAuth
+3.4.4
+Authentication mod for Fabric servers
+Modrinth
+Server only
+
+
+
+EasyWhitelist
+1.1.4
+Name-based whitelist for Fabric servers
+Modrinth
+Server only
+
+
+
+Fabric API
+0.161.0+26.2
+Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
+Modrinth
+Friends need it
+
+
+
+Fabric Language Kotlin
+1.14.2+kotlin.2.4.21
+This is a mod that enables usage of the Kotlin programming language for Fabric mods.
+Modrinth
+Server only
+
+
+
+FerriteCore
+9.0.0-fabric
+Memory usage optimizations
+Modrinth
+Server only
+
+
+
+Forge Config API Port
+26.2.1
+NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.
+Modrinth
+Friends need it
+
+Framework
+0.13.26
+framework-fabric-26.2-0.13.26.jar
+By hand
+Added by hand
+Not in the library
+
+
+GlitchCore
+26.2.0.0.0
+A library mod aimed at abstracting mod loaders and providing various utilities for our mods.
+Modrinth
+Friends need it
+
+
+
+Immersive Optimization
+0.2.0+26.2
+A lightweight entity-tick-scheduler for doubling your TPS.
+Modrinth
+Server only
+
+
+
+Iris Shaders
+1.11.4+26.2-fabric
+A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs
+Modrinth
+Friends need it
+
+
+
+Just Enough Items (JEI)
+30.29.0.201
+View Items and Recipes
+Modrinth
+Update available · 30.42.0.236
+
+
+
+Library Ferret
+5.0.1
+Shared code for the mod of jtorleon studios
+Modrinth
+Friends need it
+
+
+
+LuckPerms
+v5.5.85-fabric
+A permissions plugin/mod for Minecraft servers.
+Modrinth
+Server only
+
+
+
+Macaw's Holidays
+1.1.2
+Adds Christmas & Halloween decorations, Christmas Tree, Lights, Garland, Candy canes...
+Modrinth
+Friends need it
+
+MrCrayfish's Furniture Mod: Refurbished
+1.0.25
+refurbished_furniture-fabric-26.2-1.0.25 (1).jar
+By hand
+Added by hand
+Not in the library
+
+
+Open Parties and Claims
+fabric-26.2-0.33.0
+Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map
+Modrinth
+Optional for friends
+
+Santa's Sleigh & Reindeer
+1.0.1+26.2
+peterwolfs-santas-sleigh-1.0.1+26.2.jar
+By hand
+Added by hand
+Not in the library
+
+
+Skin Restorer
+2.11.0+26.1-fabric
+A server-side mod for managing and restoring player skins.
+Modrinth
+Server only
+
+
+
+Sodium
+mc26.2-0.9.2-fabric
+A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.
+Modrinth
+Friends need it
+
+
+
+Solstice Essentials
+1.9.6+26.2
+Essential commands and features for Fabric servers
+Modrinth
+Server only
+
+
+
+TerraBlender
+26.2.0.0.2
+A library mod for adding biomes in a simple and compatible manner!
+Modrinth
+Friends need it
+
+
+
+Traveler's Backpack
+26.2-11.3.3
+Unique and upgradeable backpacks with customisation, Curios API/Trinkets integration and more!
+Modrinth
+Friends need it
+
+
+
+Vanilla Permissions
+0.3.6+26.1.2
+Adds permission checks into vanilla, to allow for full permission customization
+Modrinth
+Server only
+
+
+
+Very Many Players (Fabric)
+0.2.0+beta.7.236+26.2
+A Fabric mod designed to improve server performance at high playercounts.
+Modrinth
+Optional for friends
+
+
+
+Xaero's Minimap
+fabric-26.2-26.6.0
+Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
+Modrinth
+Update available · fabric-26.2-26.6.1
