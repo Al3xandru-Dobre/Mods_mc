@@ -20,7 +20,7 @@ seta jocul si a va putea conecta si juca impreuna cu noi.
 ### Viziteaza dupa ce ai terminat de instalat, problemele frecvente : [Click pentru probleme frecvente stiute](#probleme-frecvente)
 
 
-*Uite aici daca vrei o arhiva cu moduri direct daca preferi sa instalezi manual: https://drive.proton.me/urls/NP787X2FAM#xApYpzDVMxFP*
+*Uite aici daca vrei o arhiva cu moduri direct daca preferi sa instalezi manual: https://limewire.com/d/VoPrf#ouuv8tENRQ*
 
 
 ## 3. Lista Moduri Suplimentare peste BMC5 (NeoForge 1.21.1)
